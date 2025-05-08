@@ -1,36 +1,123 @@
-# kuldipdarbar.github.io
-<h1 align="center">Hi 👋, I'm Kuldipsinh Parmar</h1>
-<h3 align="center">A passionate frontend developer and backend developer.</h3>
+# 👨‍💻 Kuldipsinh Parmar
 
-- 🔭 I’m currently working on [TEST](TEST)
+<div align="center">  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-hkprofile.in-blue)](http://hkprofile.in)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuldipsinh-blue)](https://linkedin.com/in/kuldipsinh-parmar-b3116a45)
+  [![GitHub](https://img.shields.io/badge/GitHub-kuldipsinhrepo-black)](https://github.com/kuldipsinhrepo)
+</div>
 
-- 🌱 I’m currently learning **AWS**
+## 🎯 Professional Summary
 
-- 👯 I’m looking to collaborate on [AWS](AWS)
+Senior Software Engineer with 8+ years of experience in Full Stack Development. Proven track record in leading development teams and delivering high-quality web applications. Expert in both frontend and backend technologies with a strong focus on scalable and maintainable code.
 
-- 🤝 I’m looking for help with [TEST](TEST)
+## 💼 Core Competencies
 
-- 👨‍💻 All of my projects are available at [TEST](TEST)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>🚀 Full Stack Development</b><br/>
+        End-to-end web solutions
+      </td>
+      <td align="center">
+        <b>👥 Team Leadership</b><br/>
+        Project & team management
+      </td>
+      <td align="center">
+        <b>🔧 System Architecture</b><br/>
+        Scalable solutions
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>📱 Responsive Design</b><br/>
+        Mobile-first approach
+      </td>
+      <td align="center">
+        <b>🔐 Security</b><br/>
+        Best practices
+      </td>
+      <td align="center">
+        <b>⚡ Performance</b><br/>
+        Optimization expert
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 📝 I regularly write articles on [TEST](TEST)
+## 🛠️ Technical Expertise
 
-- 💬 Ask me about **TEST**
+### Frontend Development
+- React.js, Next.js
+- JavaScript/TypeScript
+- HTML5, CSS3, Tailwind CSS
+- Responsive Web Design
+- Progressive Web Apps
 
-- 📫 How to reach me **kuldipdarbar23@gmail.com**
+### Backend Development
+- PHP, Laravel
+- Node.js, Express.js
+- RESTful APIs
+- GraphQL
+- Microservices
 
-- 📄 Know about my experiences [TEST](TEST)
+### Database & Cloud
+- MySQL, MongoDB
+- AWS Services
+- Docker
+- CI/CD Pipelines
 
-- ⚡ Fun fact **JOKES**
+### E-commerce
+- WordPress
+- WooCommerce
+- BigCommerce
+- Custom E-commerce Solutions
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="test" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
-<a href="https://fb.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="test" height="30" width="40" /></a>
-<a href="https://instagram.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="test" height="30" width="40" /></a>
-</p>
+## 📈 Professional Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### Senior Software Engineer & Lead
+- Leading development teams in delivering complex web applications
+- Architecting scalable solutions for enterprise clients
+- Mentoring junior developers and conducting code reviews
+- Implementing best practices and coding standards
 
+### Key Achievements
+- Successfully delivered 50+ web applications
+- Reduced application load time by 60%
+- Implemented automated testing reducing bugs by 40%
+- Led team of 5 developers in multiple projects
 
+## 🎓 Education & Certifications
+
+- Bachelor's Degree in Computer Science
+- AWS Certified Developer
+- Laravel Certification
+- React.js Advanced Concepts
+
+## 🌟 Why Work With Me?
+
+- **Problem Solver**: Analytical approach to complex challenges
+- **Team Player**: Excellent communication and collaboration skills
+- **Continuous Learner**: Always updated with latest technologies
+- **Quality Focus**: Strong emphasis on code quality and best practices
+- **Client-Centric**: Understanding and delivering client requirements
+
+## 📱 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/kuldipsinh-parmar-b3116a45">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kuldipsinhrepo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Available for freelance projects and full-time opportunities</sub>
+</div>
